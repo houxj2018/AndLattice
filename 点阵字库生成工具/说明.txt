@@ -1,0 +1,3 @@
+这个点阵字库生成工具来自开源项目
+https://github.com/Jiangxiaogang/FontMaker
+大家可以自己去看看和学习。学习作者的分享
